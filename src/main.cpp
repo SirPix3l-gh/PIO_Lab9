@@ -17,3 +17,20 @@ void loop() {
 int myFunction(int x, int y) {
   return x + y;
 }
+
+// -- USER DEFINED FUNCTIONS --
+
+// Funktion um beide internen LED abwechselnd blinken zu lassen
+void blink(){
+
+}
+
+// Funktion um LED Blinkfrquenz über das Potentiometer zu ändern
+void blink2(){
+
+}
+
+// Funktion um Helligkeit der LEDs über das Potentiometer steuern zu können -> Uhrzeigersinn = Heller
+void dimmer(){
+
+}
